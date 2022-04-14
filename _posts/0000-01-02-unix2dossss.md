@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Check out my Youtube Channel lol - Unix2Dos
 Use the left arrow to go back!
